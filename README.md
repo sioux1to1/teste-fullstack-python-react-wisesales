@@ -192,7 +192,7 @@ React + Vite, SPA, JavaScript (sem TypeScript), Tailwind CSS.
 ## Fluxo do processo
 
 1. Teste take-home: você recebe este repositório, desenvolve a solução e envia o link do seu repositório GitHub em até 7 dias
-2. Avaliação técnica: a Sioux avalia o código entregue com base nos critérios deste documento
+2. Avaliação técnica: o código entregue é avaliado com base nos critérios deste documento
 3. Entrevista técnica com a Wise Sales: baseada no projeto entregue, o time avalia raciocínio, entendimento da solução e decisões técnicas
 
 ---
